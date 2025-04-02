@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="convert_button">Convert</string>
+    <string name="hint_enter_value">Enter value</string>
+    <string name="result_placeholder">Result will be shown here</string>
+    <string name="error_empty_input">Please enter a value.</string>
+    <string name="error_invalid_number">Invalid number format.</string>
+    <string name="info_same_unit">Same unit selected. Value remains unchanged: %.2f</string>
+    <string name="result_text">Converted Value: %.2f %s</string>
+    <string name="toast_conversion_done">Conversion completed!</string>
+</resources>
